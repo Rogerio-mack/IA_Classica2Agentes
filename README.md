@@ -1,2 +1,2 @@
-# AI_Classica2Agentes
-Da IA Clássica aos Agentes Modernos de IA
+# Representação e manipulação de conhecimento
+**Da IA Clássica aos Agentes Modernos de IA**
